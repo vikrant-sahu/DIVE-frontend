@@ -30,3 +30,6 @@ To build for production, this command will output optimized production code:
 ```bash
 $ npm run build
 ```
+```
+All the best
+```
